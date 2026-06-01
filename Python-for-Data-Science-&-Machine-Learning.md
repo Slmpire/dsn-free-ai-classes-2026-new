@@ -23,7 +23,11 @@ https://learnwithdsn.com
 - Data Visualization  
 - Machine Learning Algorithms  
 - Model Building  
-- Scikit-Learn  
+- Scikit-Learn
+
+## 📚 Capstone Project: 
+Click this link to access on Kaggle : https://www.kaggle.com/competitions/dsn-free-ai-classes-26
+
 
 ## 🎯 Outcome
 Develop practical skills for data analysis and ML model development.
